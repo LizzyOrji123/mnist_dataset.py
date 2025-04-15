@@ -1,12 +1,15 @@
 Project Overview
+
 This repository showcases my work with the MNIST dataset, where I utilized Jupyter Notebook and the Anaconda distribution for efficient data analysis and model training. The project explores handwritten digit classification, aiming to achieve high accuracy using robust machine learning techniques.
 
 I trained the model in an interactive environment provided by Jupyter Notebook, leveraging Anaconda’s extensive ecosystem of preinstalled data science libraries and tools. The combination enabled seamless experimentation and visualization, crucial for preprocessing and understanding the MNIST dataset.
 
 MNIST Dataset
+
 The MNIST dataset consists of 70,000 grayscale images of handwritten digits (0–9), each with a resolution of 28x28 pixels. It is a benchmark dataset widely used for image classification and computer vision tasks. Here’s a screenshot of the dataset showcasing its structure and contents: [View Screenshot.](https://docs.google.com/document/d/1PJmGEpmUYWRz6oxqqS4FnQPcGm_EUv_-2yQko34FC0Q/edit?usp=sharing)
 
 Tools and Technologies
+
 Jupyter Notebook:
 
 An interactive development environment for writing and visualizing code.
